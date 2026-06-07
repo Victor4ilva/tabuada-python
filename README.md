@@ -2,12 +2,6 @@
 
 Projeto simples desenvolvido em Python que exibe a tabuada de 1 a 10 utilizando estruturas de repetição (`while`).
 
-## Tecnologias utilizadas
-
-* Python 3
-
-
-
 ## Código
 
 ```python
